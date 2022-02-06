@@ -16,6 +16,8 @@ OpenGL homework.
 - Custom change color value. (Only Color)
 - Powered by normal OpenGL with shader, VAO & VBO & EBO.
 
+![demo](https://github.com/TheNovaMist/Lattice-Generator/blob/main/demo.png?raw=true)
+
 
 ## references
 - [LearnOpenGL CN (learnopengl-cn.github.io)](https://learnopengl-cn.github.io/)
